@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "Credit Card Fraud Detection with Behavioral Augmentation and Interpretable Models"
+authors:
+  - family-names: Ovhal
+    given-names: Shashwat S.
+    affiliation: "MIT World Peace University, Pune, India"
+    email: "o.shashwat14@gmail.com"
+  - family-names: Satpute
+    given-names: Sumit
+    affiliation: "MIT World Peace University, Pune, India"
+date-released: 2025-11-05
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/Shashwat-Ovhal/credit-card-fraud-detection-behavioral-augmentation"
+abstract: "This repository contains the implementation and dataset references for the research paper 'Credit Card Fraud Detection with Behavioral Augmentation and Interpretable Models'. The project integrates behavioral analytics with SHAP-based interpretability and Random Forest models for accurate and explainable fraud detection."
+keywords:
+  - Fraud Detection
+  - Behavioral Features
+  - Explainable AI
+  - SHAP
+  - Random Forest
+  - SMOTE
+  - Interpretable Models
+doi: "10.5281/zenodo.xxxxxxx"
