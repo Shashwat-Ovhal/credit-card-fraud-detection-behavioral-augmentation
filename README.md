@@ -3,7 +3,7 @@
 ### 📄 Overview
 This repository contains the implementation and research artifacts for the paper  
 **"Credit Card Fraud Detection with Behavioral Augmentation and Interpretable Models"**  
-authored by **Shashwat Ovhal** and **Sumit Satpute**, Department of Electrical and Electronics Engineering, MIT-WPU, Pune, India.
+authored by **Shashwat Sambhaji Ovhal** and **Sumit Shivaji Satpute**, Department of Electrical and Electronics Engineering, MIT-WPU, Pune, India.
 
 This project proposes a fraud detection framework that integrates **behavioral user features** (e.g., login hour, session count, device change count) with traditional transaction data and focuses on **model interpretability** using **SHAP (SHapley Additive exPlanations)**.
 
