@@ -125,7 +125,7 @@ CREDIT-CARD-FRAUD-DETECTION/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
+```
 ## 📝 How to Cite
 
 If you use this work, please cite the following publication:
@@ -134,6 +134,7 @@ Shashwat Sambhaji Ovhal & Sumit Shivaji Satpute.
 Credit Card Fraud Detection with Behavioral Augmentation and Interpretable Models.
 International Journal of Scientific Research in Science and Technology (IJSRST), Vol. 12 Issue 17 (2025).
 Read online here → IJSRST 25121746
+
 @article{Ovhal2025CreditCardFraud,
   title   = {Credit Card Fraud Detection with Behavioral Augmentation and Interpretable Models},
   author  = {Ovhal, Shashwat Sambhaji and Satpute, Sumit Shivaji},
@@ -145,13 +146,13 @@ Read online here → IJSRST 25121746
   url     = {https://ijsrst.com/home/issue/view/article.php?id=IJSRST25121746}
 }
 
-##📄 License
+## 📄 License
 
-This project is licensed under the MIT License — see LICENSE.
----
+This project is licensed under the MIT License — see LICENSE
+.
 
 <div align="center">
 
 ⭐ If you find this repository useful, please give it a star on GitHub! ⭐
 
-</div> ```
+</div> 
